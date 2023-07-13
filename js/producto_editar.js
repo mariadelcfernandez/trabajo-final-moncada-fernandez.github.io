@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 stock:0,
 precio:0,
-url:'http://belen.pythonanywhere.com/productos'+id,
+url:'https://mariafer.pythonanywhere.com/productos'+id,
 }
 },
 methods: {
